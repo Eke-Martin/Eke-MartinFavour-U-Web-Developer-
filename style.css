@@ -223,8 +223,8 @@ section:hover::-webkit-scrollbar-thumb {
 
 .text-animation {
    font-size: 34px;
-   font-weight: 600;
-   min-height: 28px;
+   font-weight: 500;
+   min-height: 25px;
 }
  
 .text-animation span {
@@ -954,6 +954,7 @@ section:hover::-webkit-scrollbar-thumb {
       font-size: 3.5rem;
    }
 }
+
 
 
 
