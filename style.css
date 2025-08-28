@@ -256,16 +256,23 @@ section:hover::-webkit-scrollbar-thumb {
  
  @keyframes words {
    0%,
-   20%{
-     content: 'Web Developer';
+   20% {
+      content: 'Web Developer';
    }
    21%,
-   40%{
-     content: 'Cybersecurity Analyst';
+   40% {
+      content: 'Cybersecurity Analyst';
    }
    41%,
-   60%{
-   content: 'Forex Trader';
+   60% {
+      content: 'Forex Trader';
+   }
+   61%,
+   80% {
+      content: 'Student';
+   }
+   100% {
+      content: '';
    }
  }
  
@@ -946,4 +953,5 @@ section:hover::-webkit-scrollbar-thumb {
       font-size: 3.5rem;
    }
 }
+
 
