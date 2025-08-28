@@ -271,8 +271,9 @@ section:hover::-webkit-scrollbar-thumb {
    80% {
       content: 'Student';
    }
+    81%,
    100% {
-      content: '';
+      content: 'Feel Free To Explore';
    }
  }
  
@@ -953,5 +954,6 @@ section:hover::-webkit-scrollbar-thumb {
       font-size: 3.5rem;
    }
 }
+
 
 
